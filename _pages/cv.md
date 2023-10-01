@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Bachelor's Degree in Mathematics, 2016-2020
+* Bachelor's Degree in Mathematics, 2016-2020,
   University of Padova, Padova, Italy
-* Master's Degree in Stochastics and Data Science, 2021-2023
+* Master's Degree in Stochastics and Data Science, 2021-2023,
   University of Torino, Torino, Italy
-* Ph.D in Statistics and Computer, 2023-present
+* Ph.D in Statistics and Computer, 2023-present,
   Bocconi University, Milano, Italy
 
   
